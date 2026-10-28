@@ -24,7 +24,7 @@ const luis = {
   role: "Software Engineer & Data Engineer",
   location: "Argentina (UTC-3 · Remote Ready)",
   education: [
-    "Licenciatura en Sistemas @ Universidad Nacional de Jujuy (UNJu)",
+    "Licenciatura en Sistemas (En curso · Tramo Final / Últimas materias) @ Universidad Nacional de Jujuy (UNJu)",
     "Analista Programador Universitario (APU) @ UNJu"
   ],
   languages: [
