@@ -2,7 +2,7 @@
 
 # Hey, I'm Luis Caballero 👋
 
-### `> Software Engineer & Data Engineer`
+### `> Data Engineer & Software Engineer`
 
 Designing resilient data pipelines, scalable Lakehouse architectures, and robust backend systems with clean engineering practices.
 
